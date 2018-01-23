@@ -1,0 +1,20 @@
+{
+  "name": "keyfn",
+  "version": "1.0.0",
+  "description": "Safe getter using magic key.",
+  "keywords": [
+    "keystring",
+    "keyquery",
+    "keyfn"
+  ],
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lext.nobody@outlook.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lext-7/keyfn.git"
+  }
+}
